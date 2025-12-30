@@ -53,7 +53,7 @@ html{
         rgba(0, 0, 0, 0.55),
         rgba(0, 0, 0, 0.55)
       ),
-      url("/image/hero.jpg")
+      url("hero.jpg")
         center/cover no-repeat;
     display: flex;
     align-items: center;
@@ -309,4 +309,5 @@ html{
   footer p {
     margin: 0;
   } 
+
   
