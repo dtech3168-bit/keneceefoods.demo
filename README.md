@@ -94,4 +94,4 @@ Frontend Developer focused on building responsive, interactive web applications 
 
 ---
 
-Built with **HTML5 and CSS3** by **Smart Wisdom**.
+Built with **HTML5 and CSS3** by **Smart Wisdom** under Smartech Fullstack Innovations.
